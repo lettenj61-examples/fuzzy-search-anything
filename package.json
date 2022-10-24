@@ -1,0 +1,27 @@
+{
+  "name": "@lttn/fuzzy-search-anything",
+  "version": "0",
+  "private": true,
+  "description": "Fuzzy search anything",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "deno fmt src/*.ts"
+  },
+  "keywords": [],
+  "author": {
+    "email": "letitscalable+npm@gmail.com",
+    "name": "Hideyuki Ueno (lettenj61)",
+    "url": "https://github.com/lettenj61"
+  },
+  "license": "(ISC OR CC0)",
+  "dependencies": {
+    "fuse.js": "^6.6.2",
+    "htm": "^3.1.1",
+    "preact": "^10.11.2",
+    "rambdax": "^8.1.0"
+  },
+  "devDependencies": {
+    "@tsconfig/recommended": "^1.0.1",
+    "parcel": "2.7.0"
+  }
+}

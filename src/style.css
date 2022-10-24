@@ -1,0 +1,18 @@
+.source {
+  width: 100%;
+  font-size: 16px;
+  min-height: 40vh;
+}
+
+.search {
+  width: 100%;
+  font-size: 16px;
+}
+
+.output {
+  list-style: none;
+}
+
+.match {
+  font-family: 'Courier New', Courier, monospace;
+}
